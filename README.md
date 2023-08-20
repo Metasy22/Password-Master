@@ -8,7 +8,7 @@ SECRET_KEY: bytes = bytes.fromhex("YOUR PRIVATE HEX KEY")  # 14 line
 ```
 2. Install requirements.
 ```cmd
-python -m pip install pyperclip getpass
+python -m pip install pyperclip
 ```
 Okay, that program ready to use.
 
